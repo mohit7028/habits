@@ -1,0 +1,8 @@
+{
+  "name": "HabitQuest Pro & Animator",
+  "description": "A comprehensive habit tracking dashboard inspired by high-performance spreadsheets, featuring deep analytics, progress charts, and AI-powered video animations using Gemini Veo.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
